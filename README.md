@@ -4,7 +4,7 @@ An **article** is any member of a class of dedicated words that are used with [n
 
 ## Types of articles
 
-- [Definite article](definite-article) 
+- [Definite article](#definite-article) 
 - Indefinite article
 
 ### Definite article 
