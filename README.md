@@ -4,10 +4,10 @@ An **article** is any member of a class of dedicated words that are used with [n
 
 ## Types of articles
 
-- Definite article
+- [Definite article](definite-article) 
 - Indefinite article
 
-### Definite article
+### Definite article 
 
 A **definite article** is an article that marks a [definite noun](https://en.wikipedia.org/wiki/Definiteness) phrase. Definite articles such as English _the_ are used to refer to a particular member of a group. It may be something that the speaker has already mentioned or it may be otherwise something uniquely specified.
 
