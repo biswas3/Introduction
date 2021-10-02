@@ -49,7 +49,6 @@ Another important component is the **HTML document type declaration**, which tri
 The following is an example of the classic ["Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
 
 ```
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -61,6 +60,13 @@ The following is an example of the classic ["Hello, World!" program](https://en.
     </div>
   </body>
 </html>
-
 ````
+
+# Database
+
+In [computing](https://en.wikipedia.org/wiki/Computing), a **database** is an organized collection of [data](https://en.wikipedia.org/wiki/Data_(computing)) stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal [design and modeling](https://en.wikipedia.org/wiki/Database#Design_and_modeling) techniques.
+
+The [database management system](https://en.wikipedia.org/wiki/Database#Database_management_system) (**DBMS**) is the software that interacts with [end users](https://en.wikipedia.org/wiki/End_user), applications, and the database itself to capture and analyze the data. 
+
+Data is stored in a form of tables in adatabase. A sample table in a database is given below: 
 
