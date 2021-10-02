@@ -70,7 +70,7 @@ The [database management system](https://en.wikipedia.org/wiki/Database#Database
 
 ## Table (Database)
 
-A **table** is a collection of related data held in a [table](https://en.wikipedia.org/wiki/Table_(information)) format within a [database](https://en.wikipedia.org/wiki/Database). It consists of [columns](https://en.wikipedia.org/wiki/Column_(database)) and [rows](https://en.wikipedia.org/wiki/Row_(database)).
+A **table** is a collection of related data held in a [table](https://en.wikipedia.org/wiki/Table_(information)) format within a [database](#database). It consists of [columns](https://en.wikipedia.org/wiki/Column_(database)) and [rows](https://en.wikipedia.org/wiki/Row_(database)).
 
 A sample table in a database is given below: 
 
