@@ -1,12 +1,3 @@
-# About Me
-What is my name?
-##_What I wnat to know?_
-Sudip Biswas
-##_What do I do?_
-Technical Writing
-##_Sudip's Interests_
-- Workout
-- Painting
-- Drawing
-- Writing
-To know more about Sudip's writing go to [Sudip's Blog page][http://eznescribdsudip-sudip.blogspot.com/]  
+# Article (Grammar)
+
+An **article** is any member of a class of dedicated words that are used with noun phrases to mark the identifiability of the referents of the noun phrases. The category of articles constitutes a part of speech.
