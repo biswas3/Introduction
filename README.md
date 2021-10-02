@@ -30,7 +30,7 @@ Indefinite noun phrases are widely studied within linguistics, in particular bec
 
 [Tanya Reinhart](https://en.wikipedia.org/wiki/Tanya_Reinhart) pioneered the structural approach to scope.
 
-[Poster of Tanya Reinhart](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#/media/File:Tanya_reinhart.jpg)
+![Poster of Tanya Reinhart](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#/media/File:Tanya_reinhart.jpg)
 
 Associated articles are as follows: 
 
@@ -48,7 +48,7 @@ Another important component is the **HTML document type declaration**, which tri
 
 The following is an example of the classic ["Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -73,6 +73,21 @@ The [database management system](https://en.wikipedia.org/wiki/Database#Database
 A **table** is a collection of related data held in a [table](https://en.wikipedia.org/wiki/Table_(information)) format within a [database](https://en.wikipedia.org/wiki/Database). It consists of [columns](https://en.wikipedia.org/wiki/Column_(database)) and [rows](https://en.wikipedia.org/wiki/Row_(database)).
 
 A sample table in a database is given below: 
+
+| ID | Name | Role | Level |
+|:--:|:-----:|:------:|:-------:|
+| 01 | Sudip | TW | 01 |
+| 02 | Joy | Dev | 03 |
+|03 | Sumit | QA | 04 |
+|04 | Jason | DevOps | 02 |
+
+# Task List
+
+- [x] Read about Articles
+- [x] Self-learn HTML
+- [x] Understand database table structure
+- [ ] Advanced concepts, as required  
+
 
 
 
