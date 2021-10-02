@@ -36,5 +36,31 @@ Associated articles are as follows:
 
 `A` `An` `The`
 
+# Hypertext Markup Language
 
+The **HyperText Markup Language**, or **HTML** is the standard [markup language](https://en.wikipedia.org/wiki/Markup_language) for documents designed to be displayed in a [web browser](https://en.wikipedia.org/wiki/Web_browser). It can be assisted by technologies such as [Cascading Style Sheets (CSS)](https://en.wikipedia.org/wiki/CSS) and various [scripting languages](https://en.wikipedia.org/wiki/Scripting_language).
+
+## Markup
+
+HTML markup consists of several key components, including those called tags (and their attributes), character-based data types, character references and entity references. HTML tags most commonly come in pairs like `<h1>` and `</h1>`, although some represent empty elements and so are unpaired, for example `<img>`. The first tag in such a pair is the _start tag_, and the second is the _end tag_ (they are also called _opening tags_ and _closing tags_).
+
+Another important component is the **HTML document type declaration**, which triggers **standards mode rendering**.
+
+The following is an example of the classic ["Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
+
+```
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <div>
+        <p>Hello world!</p>
+    </div>
+  </body>
+</html>
+
+````
 
