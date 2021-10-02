@@ -28,7 +28,7 @@ Indefinites also have predicative uses:
 
 Indefinite noun phrases are widely studied within linguistics, in particular because of their ability to take [exceptional scope](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#Exceptional_scope).
 
-[Tanya Reinhart] pioneered the structural approach to scope.
+[Tanya Reinhart](https://en.wikipedia.org/wiki/Tanya_Reinhart) pioneered the structural approach to scope.
 
-[!Poster of Tanya](![poster](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#/media/File:Tanya_reinhart.jpg)
+[![Poster of Tanya](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#/media/File:Tanya_reinhart.jpg)]
 
