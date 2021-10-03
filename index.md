@@ -1,4 +1,6 @@
 ---
+title: Test
+_layout: demo_template
 author: Jay Sean
 ---
 
