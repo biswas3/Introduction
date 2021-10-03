@@ -30,7 +30,7 @@ Indefinite noun phrases are widely studied within linguistics, in particular bec
 
 [Tanya Reinhart](https://en.wikipedia.org/wiki/Tanya_Reinhart) pioneered the structural approach to scope.
 
-![Poster of Tanya Reinhart](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#/media/File:Tanya_reinhart.jpg)
+![Poster](https://en.wikipedia.org/wiki/Scope_(formal_semantics)#/media/File:Tanya_reinhart.jpg)
 
 Associated articles are as follows: 
 
