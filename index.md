@@ -3,8 +3,8 @@ author: Sudip Biswas
 contact: 3456456321
 ---
 
-## By {{page.author}}
-## Contact: {{page.contact}}
+By {{page.author}}
+Contact: {{page.contact}}
 
 # What is Lorem Ipsum?
 
