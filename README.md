@@ -1,7 +1,4 @@
----
-author: Sudip Biswas
-contact: 3456456321
----
+
 
 
 # Article (Grammar)
@@ -94,7 +91,5 @@ A sample table in a database is given below:
 - [x] Understand database table structure
 - [ ] Advanced concepts, as required  
 
-## By {{page.author}}
-## Phone: {{page.contact}}
 
 
