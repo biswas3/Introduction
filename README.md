@@ -1,4 +1,10 @@
+---
+author: Sudip Biswas
+contact: 3456456321
+---
 
+By {{page.author}}
+Contact: {{page.contact}}
 
 
 # Article (Grammar)
