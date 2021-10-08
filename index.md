@@ -1,10 +1,10 @@
 ---
 author: Sudip Biswas
-
 date: 09-10-2021
 ---
 
 Owner: {{page.author}}
+s
 Dated: {{page.date}}
 
 # What is Lorem Ipsum?
