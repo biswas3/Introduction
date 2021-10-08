@@ -1,3 +1,9 @@
+---
+author: Sudip Biswas
+contact: 3456456321
+---
+
+
 # Article (Grammar)
 
 An **article** is any member of a class of dedicated words that are used with [noun phrases](https://en.wikipedia.org/wiki/Noun_phrase) to mark the identifiability of the referents of the noun phrases. The category of articles constitutes a [part of speech](https://en.wikipedia.org/wiki/Part_of_speech).
@@ -88,6 +94,7 @@ A sample table in a database is given below:
 - [x] Understand database table structure
 - [ ] Advanced concepts, as required  
 
-
+## By {{page.author}}
+## Phone: {{page.contact}}
 
 
