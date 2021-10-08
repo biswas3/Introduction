@@ -3,8 +3,7 @@ author: Sudip Biswas
 date: 09-10-2021
 ---
 
-Owner: {{page.author}}
-s
+Owner: {{page.author}}\
 Dated: {{page.date}}
 
 # What is Lorem Ipsum?
