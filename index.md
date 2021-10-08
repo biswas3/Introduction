@@ -1,6 +1,6 @@
 ---
 author: Sudip Biswas
-layout: demo_templates
+layout: demo_template
 date: 09-10-2021
 ---
 
