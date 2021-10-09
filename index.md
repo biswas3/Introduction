@@ -4,7 +4,7 @@ layout: demo_template
 date: 09-10-2021
 ---
 
-{% for entry in site.data.addresses}
+{% for entry in site.data.addresses %}
 
 - {{entry.Lastname}}:{{entry.Firstname}}
 
