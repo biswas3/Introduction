@@ -7,7 +7,7 @@ date: 09-10-2021
 Owner: {{page.author}}\
 Dated: {{page.date}}
 
-{ % include text-for-resuse.txt %}
+{% include text-for-resuse.txt %}
 
 # What is Lorem Ipsum?
 
