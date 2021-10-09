@@ -7,6 +7,8 @@ date: 09-10-2021
 Owner: {{page.author}}\
 Dated: {{page.date}}
 
+{ % include text-for-resuse.txt %}
+
 # What is Lorem Ipsum?
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
