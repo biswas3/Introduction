@@ -7,6 +7,12 @@ date: 09-10-2021
 Owner: {{page.author}}\
 Dated: {{page.date}}
 
+{% for entry in site.data.addresses}
+
+- {{entry.Lastname}}:{{entry.Firstname}}
+
+{% endfor %}
+
 {% include text-for-resuse.txt %}
 
 # What is Lorem Ipsum?
