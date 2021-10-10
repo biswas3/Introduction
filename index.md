@@ -9,7 +9,7 @@ Dated: {{page.date}}
 
 {% for entry in site.data.emp_names %}
 
-- {{entry.Lastname}} {{entry.Firstname}}
+- {{entry.Firstname}} {{entry.Lastname}}
 
 {% endfor %}
 
